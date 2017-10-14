@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Machine Learning Company
+## Music Speaker
 
-You can use the [editor on GitHub](https://github.com/AndyLeeZaiZai/Music-Speaker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Image
+<img src="https://i.imgur.com/KWgAaDO.jpg" alt="Music Speaker" width="256" height="256">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Product name
+Music Speaker
 
-### Markdown
+### Description
+This rack loudspeaker manufactured by Quadral has a nominal capacity of 110 W . The presence of a bass reflex system results in a deep and full low end. Additionaly the presence of 3 drivers guarantees a clear and well defined sound. With a musical capacity rated at 160 W, the Quadral speaker provides more than enough capacity for medium to large rooms. It comes in black and is 550 mm wide, 168 mm high and has a depth of 215 mm. A loudspeaker (or loud-speaker or speaker) is an electroacoustic transducer; which converts an electrical audio signal into a corresponding sound. The most widely used type of speaker in the 2010s is the dynamic speaker, invented in 1925 by Edward W. Kellogg and Chester W. Rice.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Specification
 
-```markdown
-Syntax highlighted code block
+Feature | Value
+------------ | -------------
+Brand | Quadral
+Bass reflex system | yes
+Built-in | no
+Colour | Black
+Colour variant | Black
+Depth | 215 mm
+Flush-mounted installation | no
+Height | 168 mm
+Horn speaker | no
+Model | Rack loudspeaker
+Multi-way system | 3
+Music capacity | 160 W
+Nominal capacity | 110 W
+Sound projector | no
+Suitable for 100 V system | no
+Suitable for 70 V system | no
+Wall mounting possible | no
+Width | 550 mm
+Active system | yes
+Passive system | no
+Degree of protection (IP) | no
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndyLeeZaiZai/Music-Speaker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Links https://andyleezaizai.github.io/Music-Speaker/
