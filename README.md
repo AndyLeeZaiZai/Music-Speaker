@@ -1,4 +1,5 @@
 # Machine Learning Company
+
 ## Music Speaker
 
 ### Image
@@ -36,4 +37,5 @@ Active system | yes
 Passive system | no
 Degree of protection (IP) | no
 
-#### Links https://andyleezaizai.github.io/Music-Speaker/
+#### Links 
+https://andyleezaizai.github.io/Music-Speaker/
